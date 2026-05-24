@@ -1,15 +1,6 @@
 {
-  "name": "jaynetwork-bot",
-  "version": "1.0.0",
-  "description": "Auto Daily Check-in + Task Completion Bot for The Jay Network",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
-  },
-  "author": "mejri02",
-  "license": "MIT",
   "dependencies": {
-    "proxy-chain": "^2.4.0",
-    "puppeteer-core": "^22.0.0"
+    "puppeteer-core": "^22.0.0",
+    "proxy-chain": "^2.0.0"
   }
 }
